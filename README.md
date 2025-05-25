@@ -10,8 +10,6 @@ ATTINY85 based tunable LiPo charger with load switch, button and multiple UX foo
 		ATTINY85 for measuring battery voltage, temperature and button timing.
 		Load switch for turning off downstream device.
 
-	Features:	
-
 	Charging Current:
 		Pchrg is header for adjusting charging current.
 		0ohm: 500mA
