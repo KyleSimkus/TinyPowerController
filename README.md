@@ -1,18 +1,17 @@
 # TinyPowerController
 ATTINY85 based tunable LiPo charger with load switch, button and multiple UX footprint options
 
-Designed: 2019 02 16
-Cleaned up: 2025 05 24
+	Designed: 2019 02 16
+	Cleaned up: 2025 05 24
 
+	Summary:
+		1 sqaure inch power controller for low power devices.
+		LiPo charger with USB micro input.
+		ATTINY85 for measuring battery voltage, temperature and button timing.
+		Load switch for turning off downstream device.
 
-Summary:
-	1 sqaure inch power controller for low power devices.
-	LiPo charger with USB micro input.
-	ATTINY85 for measuring battery voltage, temperature and button timing.
-	Load switch for turning off downstream device.
-	
+	Features:	
 
-Features:	
 	Charging Current:
 		Pchrg is header for adjusting charging current.
 		0ohm: 500mA
