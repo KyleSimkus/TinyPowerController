@@ -1,5 +1,5 @@
 # TinyPowerController
-ATTINY85 based tunable LiPo charger with load switch, button and multiple UX footprint options
+ATTINY85 based tunable LiPo charger, on 1 sq inch PCB, with load switch, button and multiple UX footprint options 
 
 	Designed: 2019 02 16
 	Cleaned up: 2025 05 24
